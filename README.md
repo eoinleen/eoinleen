@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @eoinleen
-- 👀 I’m interested in molecular biology, protein engineering, and design
-- 📫 How to reach me -> e.leen@leeds.ac.uk
-- ⚡ Fun fact: It's now only x days until the heat death of the universe
+- I’m interested in molecular biology, protein engineering, and design.
+- I am doing lot's of vibe coding via Claude, currently learning bash, python & PyTorch
+- How to reach me -> e.leen@leeds.ac.uk
+- Fun fact: It's now only x days until the heat death of the universe
 
-Obviously feel free to use my code, sed caveat emptor
+Codice meo uti nempe licet, sed emptor caveat: tiro sum
 
 <!---
 eoinleen/eoinleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
